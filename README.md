@@ -34,11 +34,3 @@ Snap Nest is a full-stack hotel booking application built using the **MERN stack
 - Vite (build tool)  
 
 ---
-
-## 📁 Project Structure
-
-Snap Nest/
-│
-├── client/ # React frontend code
-│
-└── server/ # Express backend code
