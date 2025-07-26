@@ -12,7 +12,9 @@ const Footer = () => {
             className="mb-4 h-8 md:h-9 invert opacity-80"
           />
           <p className="text-sm text-justify">
-            SnapNest offers exclusive hotel bookings and travel deals, ensuring a seamless and unforgettable experience for travelers in Sri Lanka. Join our community to receive the best offers, travel tips, and
+            SnapNest offers exclusive hotel bookings and travel deals, ensuring
+            a seamless and unforgettable experience for travelers in Sri Lanka.
+            Join our community to receive the best offers, travel tips, and
             updates directly to your inbox.
           </p>
           <div className="flex items-center gap-3 mt-4">
@@ -75,7 +77,8 @@ const Footer = () => {
         <div className="max-w-80">
           <p className="font-lora text-lg text-gray-800">KEEP IN TOUCH</p>
           <p className="mt-3 text-sm text-justify">
-            Subscribe to our newsletter for the latest hotel deals, exclusive offers, and booking updates.
+            Subscribe to our newsletter for the latest hotel deals, exclusive
+            offers, and booking updates.
           </p>
           <div className="flex items-center mt-4">
             <input
@@ -109,9 +112,3 @@ const Footer = () => {
 };
 
 export default Footer;
-
-{/*-------- <i className="bi bi-instagram"></i> --------*/}
-{/*-------- <i className="bi bi-facebook"></i> --------*/}
-{/*-------- <i className="bi bi-twitter"></i> --------*/}
-{/*-------- <i className="bi bi-linkedin"></i> --------*/}
-{/*-------- <i className="bi bi-arrow-right"></i> --------*/}
