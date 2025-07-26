@@ -85,16 +85,3 @@ const Hero = () => {
 };
 
 export default Hero;
-
-
-
-
-
-
-
-
-
-
-
-
-{/*---------------- <i class="bi bi-search"></i> ---------------*/}

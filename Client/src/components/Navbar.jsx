@@ -36,7 +36,7 @@ const Navbar = () => {
 
   const { openSignIn } = useClerk();
   const { user } = useUser();
-  const navigate  = useNavigate();
+  const navigate = useNavigate();
   const location = useLocation();
 
   useEffect(() => {
@@ -191,12 +191,3 @@ const Navbar = () => {
 };
 
 export default Navbar;
-
-
-
-
-
-
-{/*---------------- <i class="bi bi-search"></i> ---------------*/}
-{/*---------------- <i class="bi bi-list"></i> ---------------*/}
-{/*---------------- <i class="bi bi-x-lg"></i> ---------------*/}
